@@ -16,15 +16,22 @@ body {
 .Content div{
   border-width: 4px;
   border-style: solid;
+  height: 70vh;
 }
 
 .Left{
   border-color: #adf442;
+  display: flex;
+  flex: 1;
 }
 .Center{
   border-color: blue;
+  display: flex;
+  flex: 3;
 }
 .Right{
   border-color: yellow;
+  display: flex;
+  flex: 1;
 }
 
