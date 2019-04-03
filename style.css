@@ -4,6 +4,7 @@ body {
 #navBar {
   border: 4px solid black;
   height: 30vh;
+  line-height: 45px;
 }
 
 .Content {
