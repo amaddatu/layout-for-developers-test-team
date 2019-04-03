@@ -1,0 +1,30 @@
+body {
+  font-size: 30px;
+}
+#navBar {
+  border: 4px solid black;
+  height: 30vh;
+}
+
+.Content {
+  border: 4px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Content div{
+  border-width: 4px;
+  border-style: solid;
+}
+
+.Left{
+  border-color: #adf442;
+}
+.Center{
+  border-color: blue;
+}
+.Right{
+  border-color: yellow;
+}
+
