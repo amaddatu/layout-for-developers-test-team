@@ -13,10 +13,13 @@ body {
   justify-content: space-around;
 }
 
-.Content div{
+.Content > div{
   border-width: 4px;
   border-style: solid;
-  height: 70vh;
+  /*height: 70vh;*/
+  display:flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .Left{
@@ -35,3 +38,10 @@ body {
   flex: 1;
 }
 
+section{
+  display:flex;
+
+}
+p{
+  font-size: 14px;
+}
