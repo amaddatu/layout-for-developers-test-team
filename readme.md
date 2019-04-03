@@ -46,7 +46,7 @@ The initial decision has been made to start with navbar and body. Next you must 
 
 Often you will need to mock content.  Fortunately many good resources exist for this purpose.
 
-* [Placehoder images](https://placebear.com/)
+* [Placeholder images](https://placebear.com/)
 * [Placeholder text](https://loripsum.net/)
 * [Add Icons](http://fontawesome.io/icons/)
 
