@@ -98,6 +98,10 @@ p{
   padding: 5px;
 }
 
+h2{
+  font-size: 3vw;
+}
+
 .myAccountBlock{
   position: absolute;
   bottom: 2.5vh;
